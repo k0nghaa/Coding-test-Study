@@ -1,2 +1,13 @@
-# codingStudy
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 🧠🛠️ Coding Test Study
+
+알고리즘 문제 해결 능력과 개발자식 사고를 기르기 위한 코딩 테스트 기록 저장소입니다.
+
+## 📝 기록 방식
+이 저장소는 코딩 테스트 문제의 **최종 코드 아카이브**입니다.
+
+문제 해결 과정(접근 방식, 문제점, 해결 과정)은  
+별도의 블로그에 정리합니다.
+
+## 🔗 Blog
+문제 풀이 과정 및 사고 흐름 정리  
+[블로그 주소](https://velog.io/@k0nghaa/series/%EC%82%AC%EA%B3%A0-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81)
